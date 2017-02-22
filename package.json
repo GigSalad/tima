@@ -1,0 +1,16 @@
+{
+  "name": "tima",
+  "version": "0.0.1",
+  "description": "Fast auto-complete service",
+  "main": "app.js",
+  "repository": "https://github.com/soundslocke/tima",
+  "author": "locke@jawesome.com",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "lodash.defaultsdeep": "^4.6.0",
+    "lodash.flatten": "^4.4.0",
+    "lodash.uniq": "^4.5.0",
+    "redis": "^2.6.5",
+    "xregexp": "^3.1.1"
+  }
+}
